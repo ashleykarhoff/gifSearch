@@ -20,3 +20,17 @@
 .App-link {
   color: #09d3ac;
 }
+
+.navBar {
+  background-color: pink;
+  display: flex;
+}
+
+.navigation {
+  background-color: red;
+  display: flex;
+}
+
+.nav-link {
+  padding: 15px;
+}
