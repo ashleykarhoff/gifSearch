@@ -1,11 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import NavBar from './components/navigation/NavBar'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navigation from './components/navigation/Navigation';
+
 
 function App() {
   return (
-    <NavBar />
+    <Navigation />
   );
 }
 
